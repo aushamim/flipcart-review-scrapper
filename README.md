@@ -6,7 +6,7 @@
 2. Open terminal in the cloned folder and run `npm install`
 3. Change these 3 lines in the code.
 
-```
+```js
 const url = "Your_URL_Here";
 const pageCount = Total_Review_Page_Count;
 const fileName = "Outout_File_Name";
