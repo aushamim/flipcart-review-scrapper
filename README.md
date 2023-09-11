@@ -2,7 +2,9 @@
 
 ### How to use
 
-Change these 3 lines in the code.
+1. Clone this repository.
+2. Open terminal in the cloned folder and run `npm install`
+3. Change these 3 lines in the code.
 
 ```
 const url = "Your_URL_Here";
@@ -14,4 +16,4 @@ const fileName = "Outout_File_Name";
 - Give your product's total page count in **pageCount** variable
 - Give output file name in **fileName** variable
 
-Then run `npm run scrap`
+4. Then run `npm run scrap`
